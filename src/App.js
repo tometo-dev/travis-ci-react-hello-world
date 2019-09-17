@@ -9,5 +9,8 @@ export default () => (
         <p className="App-intro">
             My name is Sudhanshu. Welcome, and hello!
         </p>
+        <p>
+            Hajimemashita!
+        </p>
     </div>
 )
